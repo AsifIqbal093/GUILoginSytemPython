@@ -1,6 +1,6 @@
 # GUILoginSytemPython
 
-###Description
+### Description
 This repository contain a Simple GUI Login System Code using Tkinter Package in Python Programming Language.
 
 ### Requirements
@@ -10,4 +10,7 @@ Use the below code in your terminal in order to install the required package.
 ```
 pip install pillow
 ```
+
+### ScreenShot
+
 ![ScreenShot](https://github.com/AsifIqbal093/GUILoginSytemPython/blob/master/Images/LoginTkinter.PNG)
